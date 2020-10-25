@@ -1,0 +1,1 @@
+original repo : https://github.com/mishbahr/django-responsive2
